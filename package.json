@@ -23,10 +23,10 @@
   "name": "lar-cc-js",
   "description": "Linear Algebraic Representation Framework",
   "version": "0.0.1",
-  "homepage": "https://github.com/cvdlab/lar",
+  "homepage": "https://github.com/furio/lar-cc-js",
   "repository": {
     "type": "git",
-    "url": "git://git@github.com/cvdlab/lar.git"
+    "url": "git://git@github.com/furio/lar-cc-js.git"
   },
   "main": "index.js",
   "engines": {
