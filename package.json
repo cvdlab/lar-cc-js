@@ -1,0 +1,43 @@
+{
+  "author": {
+    "name" : "cvdlab",
+    "email" : "cvdlab@email.com",
+    "url" : "https://github.com/cvdlab/"
+  },
+  "contributors": [ 
+    {
+      "name": "Francesco Furiani",
+      "email": "fra.uni@furio.me"
+    },  
+    {
+      "name": "Enrico Marino",
+      "email": "enrico.marino@email.com",
+      "url": "http://onirame.no.de"
+    },
+    {
+      "name": "Federico Spini",
+      "email": "federico.spini@gmail.com",
+      "url": "http://spini.no.de"
+    }
+  ],
+  "name": "lar-cc-js",
+  "description": "Linear Algebraic Representation Framework",
+  "version": "0.0.1",
+  "homepage": "https://github.com/cvdlab/lar",
+  "repository": {
+    "type": "git",
+    "url": "git://git@github.com/cvdlab/lar.git"
+  },
+  "main": "index.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "numbers":"",
+    "arguejs":""
+  },
+  "devDependencies": {
+    "mocha": "1.x.x",
+    "should": "1.x.x"
+  }
+}
