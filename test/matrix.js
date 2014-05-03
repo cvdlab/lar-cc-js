@@ -27,4 +27,11 @@ var coo = new mtx.CooMatrix(arr1,arr2,arr3,3,3);
 console.log(coo.toDense());
 
 var cooT = coo.transpose();
+console.log(cooT);
+console.log(cooT.toCsr());
+console.log("--");
+console.log(cooT);
+console.log(cooT.toCsr().toCoo());
+console.log("--");
 console.log(cooT.toDense());
+console.log(cooT.toCsr().toDense());
