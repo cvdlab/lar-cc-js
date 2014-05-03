@@ -1,1 +1,1 @@
-module.exports = require('./lib/lar-cc.js');
+module.exports = require('./lib/lar-cc-js.js');
