@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "numbers":"",
-    "arguejs":""
+    "args-js":""
   },
   "devDependencies": {
     "mocha": "1.x.x",
