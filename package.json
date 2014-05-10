@@ -34,7 +34,8 @@
   },
   "dependencies": {
     "numbers":"",
-    "args-js":""
+    "args-js":"",
+    "simplesets":""
   },
   "devDependencies": {
     "mocha": "1.x.x",
